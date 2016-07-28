@@ -1,0 +1,22 @@
+{
+  "name": "SwiftAdditions",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftAdditions.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SwiftAdditions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Robert Dougan": "rdougan@me.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/SwiftAdditions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftAdditions/Classes/**/*"
+}

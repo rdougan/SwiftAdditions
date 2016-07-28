@@ -1,0 +1,6 @@
+framework module SwiftAdditions {
+  umbrella header "SwiftAdditions-umbrella.h"
+
+  export *
+  module * { export * }
+}
